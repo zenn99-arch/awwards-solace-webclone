@@ -55,7 +55,7 @@ const Six = () => {
         <p className="clide-price">$2,333</p>
     </div>
     <hr className="six-line-last" />
-    <a href="https://www.instagram.com/chaniru.lk/" className="shop-clide">Shop all</a>
+    <a href="" className="shop-clide">Shop all</a>
     <hr className="six-line-last-two" />
   </div>;
 };

@@ -30,8 +30,8 @@ const Third = () => {
             <img src={HOLDER} alt="" className="holder" />
           </div>
         </div>
-        <a href="https://www.instagram.com/chaniru.lk/" className="value-left">See Loobook</a>
-        <a href="https://www.instagram.com/chaniru.lk/" className="credit-tag-two">@chanir.lk</a>
+        <a href="" className="value-left">See Loobook</a>
+        <a href="" className="credit-tag-two">@chanir.lk</a>
     </div>
     <p className="class-one">materials:</p>
     <p className="class-two">produced in:</p>
